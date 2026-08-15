@@ -21,4 +21,4 @@ class Solution:
 #here each node just needs to reverse its children (swap it)
 
 #Time: O(n) because it visits every node
-#Space: O(1) because constant variable use
+#Space: O(n) worst because recursive stack for a skewed tree
